@@ -20,7 +20,7 @@ title: 关于/博主~<img src="/images/we3.jpg" winth="200" height="200" align="
 
 <p>
 
-如果你想搭建一个跟我一样的博客，可以看我的 
+如果你想搭建一个跟我一样的博客，可以看我的个人博客 
 <a href="http://RaeLyn-Cai.github.io">下载模板</a>
 
 
