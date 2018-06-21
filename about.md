@@ -3,7 +3,7 @@ layout: page
 title: 关于/博主~ 
 ---
 
-<head class="panel-cover {% if page.layout == 'post' or page.layout == 'page' %}panel-cover--collapsed{% endif %}" style="background-image: url('/images/3.png' width:100%;height:100%></head>
+
 一个大一在校生，喜欢敲代码。
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
@@ -33,7 +33,8 @@ title: 关于/博主~
 博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
 <p> 
-
+<img src="/images/we1.png" winth="200" height="200" align="left"/>
+<img src="/images/we.png" winth="200" height="200" align="right"/>
 <p> 
 
 <p> 
