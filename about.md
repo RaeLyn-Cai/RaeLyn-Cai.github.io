@@ -4,10 +4,10 @@ title: 关于/博主~
 ---
 
 
-一个大一在校生，喜欢敲代码。
+一个大一在校生，喜欢敲代码。<p><img src="/images/we3.jpg" winth="100" height="100" align="right"/> 
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
-<p><img src="/images/we3.jpg" winth="200" height="200" align="center"/> 
+
 了解一些 前端 基本概念和 Python 的简单用法。
 
 <p>
