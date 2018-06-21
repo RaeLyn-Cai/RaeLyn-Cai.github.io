@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于/博主~<img src="/images/we3.png" winth="200" height="200" align="center"/> 
+title: 关于/博主~<img src="/images/we3.jpg" winth="200" height="200" align="center"/> 
 ---
 
 
