@@ -3,51 +3,7 @@ layout: page
 title: 关于/博主~ 
 ---
 
-
-body {
-
-margin:0;
-
-margin:0;
-
-}
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">    
-
-<html>    
-
-<head>    
-
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    
-
-<title>Coming soon...</title>    
-
-<style>
-
-body {
-
-margin:0;
-
-margin:0;
-
-}
-
-</style>
-
-</head>    
-
-<body>    
-
-<div id="Layer1" style="position:absolute; width:100%; height:100%; z-index:-1">    
-
-< img src="/images/3.jpg" height="100%" width="100%"/>    
-
-</div>    
-
-</body>    
-
-</html>  
+<header class="panel-cover {% if page.layout == 'post' or page.layout == 'page' %}panel-cover--collapsed{% endif %}" style="background-image: url('/images/12.png')">
 一个大一在校生，喜欢敲代码。
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
