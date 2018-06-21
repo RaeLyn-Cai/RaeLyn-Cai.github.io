@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 关于/博主~<img src="/images/we3.jpg" winth="200" height="200" align="center"/> 
+title: 关于/博主~
 ---
 
 
 一个大一在校生，喜欢敲代码。
 <p>
 平时喜欢整理个人博客，逛逛技术论坛。
-<p>
+<p><img src="/images/we3.jpg" winth="200" height="200" align="center"/> 
 了解一些 前端 基本概念和 Python 的简单用法。
 
 <p>
